@@ -1,0 +1,39 @@
+.cardWrapper {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .card {
+        width: 85%;
+        max-width: 32rem;
+        background-color: $white;
+        border-radius: 1.8rem;
+        padding: 1.5rem;
+        padding-bottom: 4rem;
+        box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+        z-index: 5;
+
+        .qrCode {
+            width: 100%;
+            border-radius: 1.2rem;
+        }
+
+        .title {
+            font-size: 2.22rem;
+            font-weight: $bold;
+            text-align: center;
+            color: $darkBlue;
+            margin-top: 2rem;
+        }
+
+        .description {
+            font-size: 1.54rem;
+            text-align: center;
+            color: $grayishBlue;
+            padding: 0 1rem;
+            margin-top: 1.5rem;
+        }
+    }
+}
