@@ -28,15 +28,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/KostaNS/FrontendMentor-Challenge-NFT)
-- Live Site URL: [GitHub Pages](https://kostans.github.io/FrontendMentor-Challenge-NFT//)
+- Solution URL: [GitHub Repository](https://github.com/KostaNS/FrontendMentor-Challenge-QR)
+- Live Site URL: [GitHub Pages](https://kostans.github.io/FrontendMentor-Challenge-QR)
 
 ### Built with
 
 - HTML5
-- CSS3
+- SCSS
 - Flexbox
-- CSS Grid
 
 ## Author
 
