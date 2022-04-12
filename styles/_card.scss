@@ -21,11 +21,14 @@
         }
 
         .title {
-            font-size: 2.22rem;
-            font-weight: $bold;
             text-align: center;
-            color: $darkBlue;
             margin-top: 2rem;
+
+            h1 {
+                font-size: 2.22rem;
+                font-weight: $bold;
+                color: $darkBlue;
+            }
         }
 
         .description {

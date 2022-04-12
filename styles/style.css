@@ -36,11 +36,13 @@ body {
   border-radius: 1.2rem;
 }
 .cardWrapper .card .title {
+  text-align: center;
+  margin-top: 2rem;
+}
+.cardWrapper .card .title h1 {
   font-size: 2.22rem;
   font-weight: 700;
-  text-align: center;
   color: hsl(218deg, 44%, 22%);
-  margin-top: 2rem;
 }
 .cardWrapper .card .description {
   font-size: 1.54rem;
